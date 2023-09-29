@@ -1,0 +1,39 @@
+[
+    {
+        "title":"WORK EXPERIENCE",
+        "job":"Encargada de Area",
+        "company":"Tienda de Autoservicio s.a",
+        "startDate": "5 Julio 2022",
+        "endDate":"12 febrero 2023",
+        "city":"Tuxtepec,Oax.",
+        "country":"Mexico",
+        "accomplishments": [
+            {"accomplishment": "implementé una estrategia de ventas innovadora que resultó en un aumento del 30% en las ventas trimestrales en comparación con el año anterior."},
+            {"accomplishment": "Fui nombrado líder de equipo del año por mi capacidad para inspirar, motivar y guiar a mi equipo hacia el éxito en múltiples proyectos."},
+            {"accomplishment": "Implementé un sistema de control de calidad que resultó en una reducción significativa de defectos en los productos."}
+
+        ]
+    },
+    {
+        "title": "EXPERIENCIA LABORAL",
+        "job": "Desarrollador de Software",
+        "company": "TechSolutions Inc.",
+        "startDate": "1 de marzo de 2022",
+        "endDate": "Presente",
+        "city": "Ciudad de Nueva York",
+        "country": "Estados Unidos",
+        "accomplishments": [
+        {
+            "accomplishment": "Diseñé y desarrollé una aplicación móvil innovadora que ha sido descargada más de 100,000 veces en el último año, lo que contribuyó significativamente a la expansión de nuestra base de usuarios."
+        },
+        {
+            "accomplishment": "Implementé una metodología ágil de desarrollo de software que mejoró la eficiencia del equipo en un 20% y redujo los tiempos de entrega de proyectos."
+        },
+        {
+            "accomplishment": "Colaboré en la creación de un sistema de gestión de bases de datos que optimizó la velocidad de acceso a datos y redujo los tiempos de respuesta en un 15%."
+        }
+        ]
+    }
+]
+
+

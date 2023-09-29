@@ -1,0 +1,28 @@
+[
+    {
+      "titulo": "Certificación en Gestión de Proyectos",
+      "descripcion": "Certificación avanzada en la gestión de proyectos, abordando planificación, seguimiento y control de proyectos complejos.",
+      "ano": "2020"
+    },
+    {
+      "titulo": "Certificación en Marketing Digital",
+      "descripcion": "Certificación que cubre estrategias de marketing en línea, publicidad digital y análisis de datos en campañas digitales.",
+      "ano": "2021"
+    },
+    {
+      "titulo": "Certificación en Desarrollo de Aplicaciones Móviles",
+      "descripcion": "Certificación enfocada en el desarrollo de aplicaciones móviles para plataformas iOS y Android.",
+      "ano": "2022"
+    },
+    {
+      "titulo": "Certificación en Seguridad Cibernética",
+      "descripcion": "Certificación que aborda la seguridad de la información, la detección de amenazas y la gestión de incidentes cibernéticos.",
+      "ano": "2023"
+    },
+    {
+      "titulo": "Certificación en Inteligencia Artificial",
+      "descripcion": "Certificación avanzada en inteligencia artificial, cubriendo aprendizaje automático, redes neuronales y procesamiento de lenguaje natural.",
+      "ano": "2024"
+    }
+]
+

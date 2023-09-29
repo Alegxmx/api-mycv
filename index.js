@@ -9,7 +9,7 @@ app.options('*', cors());
 const port = 8080;
 
 app.get('/', (req, res, next) => {
-	res.send('node express api <br> by jazaelog');
+	res.send('node express api <br> by adsoft');
 });
 
 
@@ -17,6 +17,22 @@ app.get('/header', (req, res, next) => {
   res.sendfile("assets/header.json");
 });
 
+app.get('/work_experience', (req, res, next) => {
+	res.sendfile("assets/work_experience.json");
+  });
+
+  app.get('/skill', (req, res, next) => {
+	res.sendfile("assets/skill.json");
+  });
+
+  app.get('/interests', (req, res, next) => {
+	res.sendfile("assets/interests.json");
+  });
+  
+  app.get('/certifications', (req, res, next) => {
+	res.sendfile("assets/certifications.json");
+  });
+  
 app.listen(port,  () => 
 	console.log('listening on port ' + port
 ));
