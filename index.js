@@ -19,19 +19,23 @@ app.get('/header', (req, res, next) => {
 
 app.get('/work_experience', (req, res, next) => {
 	res.sendfile("assets/work_experience.json");
-  });
+});
 
-  app.get('/skill', (req, res, next) => {
+app.get('/skill', (req, res, next) => {
 	res.sendfile("assets/skill.json");
-  });
+});
 
-  app.get('/interests', (req, res, next) => {
+app.get('/interests', (req, res, next) => {
 	res.sendfile("assets/interests.json");
-  });
+});
   
-  app.get('/certifications', (req, res, next) => {
+app.get('/certifications', (req, res, next) => {
 	res.sendfile("assets/certifications.json");
-  });
+});
+
+app.get('/proxy_size', (req, res, next) => {
+	res.sendfile("assets/proxy_size.json");
+});
   
 app.listen(port,  () => 
 	console.log('listening on port ' + port
